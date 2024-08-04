@@ -1,0 +1,14 @@
+{
+  "name": "aws-app",
+  "version": "1.0.0",
+  "description": "Deploy  nodejs app on AWS EC2 instance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
